@@ -1,0 +1,10 @@
+C:\Users\אביב\source\repos\IPMaskingTool\IPMaskingTool\bin\Debug\IPMaskingTool.exe.config
+C:\Users\אביב\source\repos\IPMaskingTool\IPMaskingTool\bin\Debug\IPMaskingTool.exe
+C:\Users\אביב\source\repos\IPMaskingTool\IPMaskingTool\bin\Debug\IPMaskingTool.pdb
+C:\Users\אביב\source\repos\IPMaskingTool\IPMaskingTool\obj\Debug\IPMaskingTool.csprojAssemblyReference.cache
+C:\Users\אביב\source\repos\IPMaskingTool\IPMaskingTool\obj\Debug\IPMaskingTool.csproj.CoreCompileInputs.cache
+C:\Users\אביב\source\repos\IPMaskingTool\IPMaskingTool\obj\Debug\IPMaskingTool.exe
+C:\Users\אביב\source\repos\IPMaskingTool\IPMaskingTool\obj\Debug\IPMaskingTool.pdb
+C:\Users\אביב\source\repos\IPMaskingTool\IPMaskingTool\bin\Debug\Masking.dll
+C:\Users\אביב\source\repos\IPMaskingTool\IPMaskingTool\bin\Debug\Masking.pdb
+C:\Users\אביב\source\repos\IPMaskingTool\IPMaskingTool\obj\Debug\IPMaskingTool.csproj.CopyComplete
